@@ -2,9 +2,9 @@
 ## IIIC Course
 *Going to make a **regenerative two motor electic car***
 ## GROUP MEMBERS :
+- ARUN GIRI
+- ADHARSH PRAKASH
+- FEBIN 
 - ARJUN VIJAY
-- FEBIN
-- ARUN
-- RAHUL
-- BHOUDHIK
-- KIRAN         
+- GIRIDHAR
+- SREERAJ 
