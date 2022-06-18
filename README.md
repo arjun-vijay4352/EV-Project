@@ -21,3 +21,4 @@ The project is done by students of [Jyothi Engineering College](https://www.jecc
 | ------------- | ------------- |
 | design  | Sreeraj  |
 | mechanical  | Arjun vijay |
+| electrical  | arun giri  |
