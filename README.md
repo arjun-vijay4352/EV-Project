@@ -3,11 +3,14 @@
 *Going to make a **regenerative two motor electic car***
 ## GROUP MEMBERS :
 - ARUN GIRI
-- ADHARSH PRAKASH
-- FEBIN 
+- ADARSH PRAKASH
+- FEBIN YESUDAS
 - ARJUN VIJAY
 - GIRIDHAR
-- SREERAJ 
+- SREERAJ KRISHNAN
+- BIJESH
+- JABIR
+- ABHINOV KRISHNA
 
-
+## ROUGH CHASSIS DESIGN :
 ![led](https://github.com/arjun-vijay4352/EV-Project/blob/main/IMG/chassis_systems_survey.jpg)
