@@ -14,4 +14,4 @@
 
 ## ROUGH CHASSIS DESIGN :
 ![led](https://github.com/arjun-vijay4352/EV-Project/blob/main/IMG/chassis_systems_survey.jpg)
-[jyothi](https://www.jecc.ac.in/)
+The project is don[jyothi](https://www.jecc.ac.in/)
