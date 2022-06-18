@@ -16,9 +16,9 @@
 ![led](https://github.com/arjun-vijay4352/EV-Project/blob/main/IMG/chassis_systems_survey.jpg)
 The project is done by students of [Jyothi Engineering College](https://www.jecc.ac.in/)
 
-
+Working departments & heads :
 | Department | HEAD |
 | ------------- | ------------- |
 | design  | Sreeraj  |
 | mechanical  | Arjun vijay |
-| electrical  | arun giri  |
+| electrical  | Arun giri  |
