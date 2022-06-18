@@ -1,3 +1,3 @@
 # EV-Project
 ## IIIC Course
-*going to make a **regenerative two motor electic car***
+*Going to make a **regenerative two motor electic car***
